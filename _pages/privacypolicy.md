@@ -8,7 +8,7 @@ include_in_header: true
 
 # Dansk
 ## Privatlivspolitik
-Privatlivspolitkken er gældende fra 28. september 2020 for applikationen “metroplan” udviklet og udgivet af Onur Bas
+Privatlivspolitikken er gældende fra 28. september 2020 for applikationen “metroplan” udviklet og udgivet af Onur Bas
 ### Indsamling af oplysninger
 metroplan indsamler oplysninger fra dig ved at gøre brug af søgefunktionerne i applikationen. Disse oplysninger er kun gemt lokalt på enheden.
 ### Anvendelse af oplysninger
