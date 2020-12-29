@@ -8,9 +8,9 @@ include_in_header: true
 
 # Dansk
 ## Privatlivspolitik
-Privatlivspolitikken er gældende fra 28. september 2020 for applikationen “metroplan” udviklet og udgivet af Onur Bas
+Privatlivspolitikken er gældende fra 29. december 2020 for applikationen “metroplan” udviklet og udgivet af Onur Bas
 ### Indsamling af oplysninger
-metroplan indsamler oplysninger fra dig ved at gøre brug af søgefunktionerne i applikationen. Disse oplysninger er kun gemt lokalt på enheden.
+metroplan indsamler oplysninger fra dig ved at gøre brug af søgefunktionerne i applikationen. Disse oplysninger er gemt lokalt på enheden og gennem tredjepartsservicen "Rejseplanen".
 ### Anvendelse af oplysninger
 De indsamlede oplysninger bruges til at anmode om rejseinformation gennem tredjepartsservicen “Rejseplanen”.
 ### Deling af oplysninger
@@ -22,9 +22,9 @@ Hvis du har nogen spørgsmål relateret til metroplans privatlivspolitik, så sk
 
 # English
 ## Privacy Policy
-The privacy policy is valid from 28 September 2020 for the application “metroplan” developed and published by Onur Bas.
+The privacy policy is valid from 29 December 2020 for the application “metroplan” developed and published by Onur Bas.
 ### Collection of Information
-metroplan collects information by you searching in the application. This information is stored solely on the device.
+metroplan collects information by you searching in the application. This information is stored on the device and the third party service "Rejseplanen".
 ### Use of Information
 The information collected is used to request trip information through the third party service “Rejseplanen”.
 ### Sharing of Information
