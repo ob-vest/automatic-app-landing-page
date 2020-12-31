@@ -27,6 +27,6 @@ The payment will be charged for your Apple ID account at the confirmation of the
 Subscriptions will automatically renew unless if it isn’t canceled 24 hours before the end of the current period.
 You can see and change your subscription by going to the account settings in the App Store
 
-###Disclaimer
+### Disclaimer
 You agree that under no circumstances will the developer and publisher be held accountable for direct or indirect consequences, damage, disappointments, inconveniences as well as any losses due to use of the app including errors, omissions and misleading information.
 
