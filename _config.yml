@@ -4,13 +4,13 @@ page_title                                : metroplan                           
 # App Info
 ios_app_id                                : 1533698893                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apps.apple.com/dk/app/metroplan/id1533698893?l=da                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/dk/app/id1533698893                                         # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : /assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : metroplan                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  : /assets/departoicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Departo                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Rejsen gjort nemmere og overskueligt.
 
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Onur Bas                                
 your_link                                 : https://twitter.com/ob_vest                    
 your_city                                 :                                 
-email_address                             : metroplan@storkely.com
+email_address                             : departo@storkely.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : ob_vest
